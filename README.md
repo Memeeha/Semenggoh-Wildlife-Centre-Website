@@ -1,5 +1,5 @@
 COS30049 COMPUTING TECHNOLOGY INNOVATION PROJECT
-the readme i put like this is it correct?
+
 # Semenggoh Wildlife Centre Website
 
 This project includes the website code and IoT integration for the Semenggoh Wildlife Centre. The codebase is divided into different components, including the website code, IoT functionality, and Firebase setup.
